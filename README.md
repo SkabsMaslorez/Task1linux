@@ -1,8 +1,8 @@
 # СТИХ #
-To see a world in a grain of sand,
-And a heaven in a wild flower,
-Hold infinity in the palm of your hand,
-And eternity in an hour.
+To see a world in a grain of sand,  
+And a heaven in a wild flower,  
+Hold infinity in the palm of your hand,  
+And eternity in an hour.  
 ## Блок кода ##
 	public static void main(String[] args)
 	{
